@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Brygada+1918&display=swap');
+
+p{
+    font-family: 'Brygada 1918', serif;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 800px){
+    #nosotrosp{
+        font-size: 17px;
+    }
+}
+@media screen and (max-width: 480px){
+    #nosotrosp{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width: 400px){
+    #nosotrosp{
+        font-size: 14px;
+    }
+}
