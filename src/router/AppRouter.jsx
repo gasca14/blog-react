@@ -3,6 +3,7 @@ import Contacto from "../pages/Contacto/Contacto";
 import Dominical from "../pages/Dominical/Dominical";
 import Femenil from "../pages/Femenil/Femenil";
 import Galeria from "../pages/Galeria/Galeria";
+import Historia from "../pages/Historia/Historia";
 import Infantil from "../pages/Infantil/Infantil.";
 import Inicio from "../pages/Inicio/Inicio";
 import Jovenes from "../pages/Jovenes/Jovenes";
@@ -21,8 +22,8 @@ const AppRouter = () => {
                 <Route path="/femenil" element={<Femenil/>}/>
                 <Route path="/dominical" element={<Dominical/>}/>
                 <Route path="/galeria" element={<Galeria/>}/>
+                <Route path="/historia" element={<Historia/>}/>
                 <Route path="/404" element={<NotFound/>}/>
-
                 
                 <Route path='/' element={<Navigate to="/inicio"/>}/>
                 <Route path='*' element={<Navigate to="/404"/>}/>

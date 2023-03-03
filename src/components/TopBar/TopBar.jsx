@@ -18,9 +18,9 @@ function TopBar() {
                             </li>
                             <li className="nav-item">
                                 <NavLink className="nav-link" to='/nosotros'>Nosotros</NavLink>
-                            </li>
+                            </li>       
                             <li className="nav-item dropdown">
-                                <a className="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">Sociedades</a>
+                                <NavLink className="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">Sociedades</NavLink>
                                 <ul className="dropdown-menu">
                                     <li><NavLink className="dropdown-item" to='/infantil'>Infantil</NavLink></li>
                                     <li><NavLink className="dropdown-item" to='/jovenes'>Jovenes</NavLink></li>
@@ -32,7 +32,6 @@ function TopBar() {
                     </div>
                 </div>
             </nav>
-
         </>
     );
 }

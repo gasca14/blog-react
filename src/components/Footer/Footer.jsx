@@ -33,7 +33,7 @@ function Footer() {
                 </div>
             </div>
             <div className="derechos">
-                <p>© 2023 Ipar bethel. Todos los derechos reservados. </p>
+                <p className='small'>© 2023 Ipar bethel. Todos los derechos reservados. </p>
             </div>
         </footer>
 
