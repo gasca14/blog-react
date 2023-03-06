@@ -1,9 +1,12 @@
+import PaginaConstruccion from "../../components/PaginaConstruccion/PaginaConstruccion";
+
 const Galeria = () => {
     return ( 
         <>
-            <h1>aqui va a ir la galeria</h1>
+            <PaginaConstruccion></PaginaConstruccion>
         </>
      );
 }
  
 export default Galeria;
+

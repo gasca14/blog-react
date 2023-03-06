@@ -1,4 +1,5 @@
 import '../Footer/Footer.css'
+import { NavLink } from 'react-router-dom';
 function Footer() {
     return (
 
@@ -7,7 +8,7 @@ function Footer() {
                 <h3>Nosotros</h3>
                 <ul>
                     <li>
-                        <a href="#">A cerca de</a>
+                        <NavLink to='/nosotros'>A cerca de</NavLink>
                     </li>
                 </ul>
             </div>
@@ -15,7 +16,7 @@ function Footer() {
                 <h3>Servicio al cliente</h3>
                 <ul>
                     <li>
-                        <a href="#">Contactanos</a>
+                        <NavLink to='/contacto'>Contactanos</NavLink>
                     </li>
                 </ul>
             </div>
@@ -32,7 +33,7 @@ function Footer() {
                     </a>
                 </div>
             </div>
-            <div className="derechos">
+            <div id='derechos'>
                 <p className='small'>© 2023 Ipar bethel. Todos los derechos reservados. </p>
             </div>
         </footer>

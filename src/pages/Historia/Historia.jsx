@@ -1,3 +1,4 @@
+import '../Historia/Historia.css'
 import reference from '../../assets/images/portada_iglesia.jpeg'
 
 const Historia = () => {
@@ -6,7 +7,7 @@ const Historia = () => {
            <div className="container mt-4">
                 <div className="row">
                     <div className="col-md-6">
-                        <img id='first' src={reference} alt="" />
+                        <img id='first' src={reference} alt="" />   
                     </div>
                     <div className="col-md-6" id='origen'>
                         <h4 id='inicioh'>Origen</h4>

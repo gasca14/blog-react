@@ -1,0 +1,33 @@
+#first{
+    margin-top: 20px;
+    width: 600px;
+    height: 720px;
+}
+
+@media screen and (max-width: 800px) {
+    #first{
+        width: 300px;
+        height: 520px;
+    }
+        
+}
+@media screen and (max-width: 480px) {
+    #first{
+        padding-left: 90px;
+        width: 315px;
+        height: 300px;
+    }
+        
+}
+@media screen and (max-width: 400px) {
+    #first{
+        width: 280px;
+    }
+        
+}
+@media screen and (max-width: 350px) {
+    #first{
+        width: 250px;
+    }
+        
+}

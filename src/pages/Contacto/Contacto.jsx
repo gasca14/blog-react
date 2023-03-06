@@ -1,7 +1,9 @@
+import PaginaConstruccion from "../../components/PaginaConstruccion/PaginaConstruccion";
+
 const Contacto = () => {
     return ( 
         <>
-            <h1>aqui va el contacto</h1>
+            <PaginaConstruccion></PaginaConstruccion>
         </>
      );
 }

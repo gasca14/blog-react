@@ -74,9 +74,8 @@
   
   
   /* copyright */
-  .derechos{
-    position: absolute;
-    margin-top: 150px;
+  #derechos{
+    padding-top: 155px;
   }
 
   
@@ -85,7 +84,7 @@
     .pie-pagina{
         display: grid;
         grid-template-columns: auto auto;
-        height: 500px;
+        height: 350px;
     }
   
     .pie-pagina .derechos{
@@ -106,7 +105,16 @@
   }
   @media screen and (max-width: 480px){
     .pie-pagina{
-        height: 575px;
+        height: 355px;
+    }
+    .derechos{
+        padding-top: 80px;
+    }
+  
+  }
+  @media screen and (max-width: 400px){
+    .pie-pagina{
+        height: 400px;
     }
     .derechos{
         padding-top: 80px;

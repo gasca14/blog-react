@@ -1,7 +1,9 @@
+import PaginaConstruccion from "../../components/PaginaConstruccion/PaginaConstruccion";
+
 const Jovenes = () => {
     return ( 
         <>
-            <h1>departamento de jovenes</h1>
+            <PaginaConstruccion></PaginaConstruccion>
         </>
      );
 }

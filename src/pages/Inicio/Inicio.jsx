@@ -169,20 +169,20 @@ const Inicio = () => {
                                     </li>
                                 </ol>
                             </div>
-                            <div className="p-4">
-                                <h4 className="fst-italic">Elsewhere</h4>
+                            {/* <div className="p-4">
+                                <h4 className="fst-italic">Pendiente</h4>
                                 <ol className="list-unstyled">
                                     <li>
-                                        <NavLink href="#">GitHub</NavLink>
+                                        <NavLink href="#">EnlaceA</NavLink>
                                     </li>
                                     <li>
-                                        <NavLink href="#">Twitter</NavLink>
+                                        <NavLink href="#">EnlaceB</NavLink>
                                     </li>
                                     <li>
-                                        <NavLink href="#">Facebook</NavLink>
+                                        <NavLink href="#">EnlaceC</NavLink>
                                     </li>
                                 </ol>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>

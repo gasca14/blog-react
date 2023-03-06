@@ -1,7 +1,9 @@
+import PaginaConstruccion from "../../components/PaginaConstruccion/PaginaConstruccion";
+
 const Femenil = () => {
     return ( 
         <>
-            <h1>departamento femenil</h1>
+            <PaginaConstruccion></PaginaConstruccion>
         </>
      );
 }

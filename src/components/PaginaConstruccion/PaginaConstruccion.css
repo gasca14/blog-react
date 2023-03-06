@@ -1,0 +1,21 @@
+#construccion{
+    width: 1100px;
+}
+
+@media screen and (max-width: 800px){
+    #construccion{
+        width: 700px;
+    }
+}
+
+@media screen and (max-width: 480px){
+    #construccion{
+        width: 360px;
+    }
+}
+
+@media screen and (max-width: 350px){
+    #construccion{
+        width: 300px;
+    }
+}

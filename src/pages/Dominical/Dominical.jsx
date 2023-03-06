@@ -1,7 +1,9 @@
+import PaginaConstruccion from "../../components/PaginaConstruccion/PaginaConstruccion";
+
 const Dominical = () => {
     return (
         <>
-            <h1>departamento dominical</h1>
+            <PaginaConstruccion></PaginaConstruccion>
         </>
     );
 }
