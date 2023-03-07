@@ -1,4 +1,5 @@
 import { Navigate,Route,Routes } from "react-router-dom";
+import PaginaConstruccion from "../components/PaginaConstruccion/PaginaConstruccion";
 import Contacto from "../pages/Contacto/Contacto";
 import Dominical from "../pages/Dominical/Dominical";
 import Femenil from "../pages/Femenil/Femenil";
@@ -23,6 +24,7 @@ const AppRouter = () => {
                 <Route path="/dominical" element={<Dominical/>}/>
                 <Route path="/galeria" element={<Galeria/>}/>
                 <Route path="/historia" element={<Historia/>}/>
+                <Route path="/construccion" element={<PaginaConstruccion/>}/>
                 <Route path="/404" element={<NotFound/>}/>
                 
                 <Route path='/' element={<Navigate to="/inicio"/>}/>
