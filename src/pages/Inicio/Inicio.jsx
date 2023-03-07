@@ -100,7 +100,10 @@ const Inicio = () => {
                             <div className="p-4 mb-3 bg-light rounded">
                                 <h4 className="fst-italic">Acerca de</h4>
                                 <p className="mb-0">
-                                    En nuestra página encontraras información de interes acerca de eventos, asi como material importante que puedes consultar y descargar   .
+                                    ¡Bienvenidos, Dios les bendiga!
+                                </p>
+                                <p>
+                                En nuestra página encontraras información de interes acerca de eventos, asi como material importante que puedes consultar y descargar.
                                 </p>
                             </div>
                             <div className="p-4">
