@@ -23,7 +23,7 @@ function Footer() {
             <div>
                 <h3>Siguenos</h3>
                 <div className="red-social">
-                    <a className="boton-e" href='https://www.facebook.com/' target='_blank' rel='noopener noreferrer'>
+                    <a className="boton-e" href='https://www.facebook.com/profile.php?id=100090499350608' target='_blank' rel='noopener noreferrer'>
                         <i className="fa-brands fa-facebook" />
                         <p>Facebook</p>
                     </a>

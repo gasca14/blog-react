@@ -51,48 +51,45 @@ const Inicio = () => {
                     <div className="col-md-8">
                         <Link id='history' className="pb-4 mb-4 fst-italic border-bottom list-unstyled" to='/historia'>Historia de la iglesia asociada reformada</Link>
                         <article className="blog-post mt-5">
-                            <h2 className="blog-post-title mb-1">"Oré en el nombre de Jesús y Él me respondió": Héroes rescatan a 17.000 personas en Afganistán</h2>
+                            <h2 className="blog-post-title mb-1">Jerusalén nombrada uno de los «mejores lugares del mundo» para visitar</h2>
                             <p className="blog-post-meta">
-                                Marzo 1, 2023
+                                Marzo 24, 2023
                             </p>
                             <p>
-                                Tras la toma del poder por los talibanes, los afganos que ayudaron al ejército estadounidense se enfrentaron a la muerte. Un veterano de la Marina estadounidense y ex campeón de artes marciales mixtas arriesgó su vida para volver y salvar a su intérprete afgano. Pero dice que Dios no quería que la misión de rescate se detuviera ahí.
+                            Uno de los mejores lugares del mundo para visitar es la Torre de David, una ciudadela histórica en Jerusalén que está cerca de la entrada de la Puerta de Jaffa, asi fue nombrada por la revista TIME.
+                            </p>
+                            <a href="https://www.bibliatodo.com/NoticiasCristianas/jerusalen-nombrada-uno-de-los-mejores-lugares-del-mundo-para-visitar/" target='_blank' rel='noopener noreferrer'>Leer mas...</a>
+                        </article>
+                        <article className="blog-post mt-5">
+                            <h2 className="blog-post-title mb-1">Benjamin Netanyahu: «No se aprobará ninguna ley contra la comunidad cristiana»</h2>
+                            <p className="blog-post-meta">
+                                Marzo 23, 2023
+                            </p>
+                            <p>
+                                Luego de que se hiciera viral que estarían promoviendo una ley que prohibiría la predicación del evangelio en Israel, el primer ministro del país expresó que no permitiría ningún tipo de acción en contra de los cristianos.
                             </p>
                             <hr />
                             <p>
-                                "Por favor, tengan a los pobres afganos en sus oraciones porque creo firmemente en las oraciones. E incluso con este asunto de la evacuación, oré en el nombre de Jesús, y Él respondió. Y ya sabes que todo sucedió como un milagro para mí", dijo Aziz.
+                                Por medio de Twitter, el primer ministro israelí Benjamin Netanyahu, expresó que el gobierno que ha conformado no promoverán leyes o acciones en contra de los cristianos, disipando así los temores de los creyentes dentro y fuera de Tierra Santa.
                             </p>
                             <hr />
                             <p>
-                                Robichaux señala el papel de Dios en todos los rescates. "Nos mantuvo a salvo, nos dio claridad de ideas y abrió puertas que eran imposibles de abrir para cualquier hombre. Y pudimos hacer algo increíble y formar parte de ello. Pero, en última instancia, Dios lo orquestó, y toda la gloria para Él", dijo.
+                                «No promoveremos ninguna ley contra la comunidad cristiana», escribió en hebreo e inglés sobre el proyecto de ley propuesto por dos miembros del gobierno de coalición.
                             </p>
-                            <a href="https://www1.cbn.com/mundocristiano/el-mundo/2023/march/ore-en-el-nombre-de-jesus-y-el-me-respondio-heroes-rescatan-a-17-000-personas-en-afganistan" target='_blank' rel='noopener noreferrer'>Leer mas...</a>
+                            <a href="https://www.bibliatodo.com/NoticiasCristianas/benjamin-netanyahu-no-se-aprobara-ninguna-ley-contra-la-comunidad-cristiana1/" target='_blank' rel='noopener noreferrer'>Leer mas...</a>
                         </article>
                         <article className="blog-post">
-                            <h2 className="blog-post-title mb-1">Por primera vez se celebró el Día de las Iglesias Evangélicas en la ciudad autónoma de Buenos Aires</h2>
+                            <h2 className="blog-post-title mb-1">Vaquillas rojas para el sacrificio en el Tercer Templo pronto llegarán a la mayoría de edad</h2>
                             <p className="blog-post-meta">
                                 {/* December 23, 2020 by <a href="#">Jacob</a>P */}
                             </p>
                             <p>
-                                Las autoridades de la Alianza Cristiana de Iglesias Evangélicas de la República Argentina y del Consejo de Pastores de la Ciudad Autónoma de Buenos Aires celebraron por primera el ‘Día de las Iglesias Evangélicas’ en el Salón San Martín de la Legislatura.
+                                Esta podría ser la primera ceremonia mencionada en la Biblia con una vaquilla roja en 2000 años. "Tenemos al sacerdote, tenemos la vaquilla roja y tenemos el lugar para la ceremonia. "Tenemos todo listo", dijo un rabino israelí.
                             </p>
                             <p>
-                                La celebración fue instituida para cada 31 de octubre a través de la ley 6551 sancionada en julio último por iniciativa del legislador Emmanuel Ferrario y votada por casi la totalidad de los parlamentarios, como un reconocimiento a todos los ciudadanos pertenecientes a esta fe y al trabajo de todas las Iglesias Evangélicas de la ciudad. De esta manera, se sumó a las 15 provincias argentinas que ya hicieron lo propio en sus legislaturas respectivas.
+                                Las vaquillas rojas son vistas por muchos judíos y cristianos como uno de los elementos que podrían conducir a la construcción del Tercer Templo en Israel, mientras los sacerdotes se preparan para reanudar las ceremonias descritas en el Antiguo Testamento.
                             </p>
-                            <a href="https://www1.cbn.com/mundocristiano/latinoamerica/2022/november/por-primera-vez-se-celebro-el-dia-de-las-iglesias-evangelicas-en-la-ciudad-autonoma-de-buenos-aires" target='_blank' rel='noopener noreferrer'>Leer mas...</a>
-                        </article>
-                        <article className="blog-post">
-                            <h2 className="blog-post-title mb-1">Avivamiento: Cientos de personas se bautizan en una playa de Filipinas</h2>
-                            <p className="blog-post-meta">
-                                {/* December 14, 2020 */}
-                            </p>
-                            <p>
-                                Una multitud de personas se alinean junto a la orilla del mar para testificar su fe en Cristo en la ciudad de Davao. "No es obra del hombre. Esta gran cosecha de almas es el avivamiento de Dios".
-                            </p>
-                            <p>
-                                El 18 de febrero, una multitud de personas hizo fila junto al mar para dar testimonio de su fe en Cristo Jesús en el balneario Praia de Vales en la ciudad de Davao.
-                            </p>
-                            <a href="https://www.acontecercristiano.net/2023/02/avivamiento-cientos-de-personas-se-bautizan-filipinas.html" target='_blank' rel='noopener noreferrer'>Leer mas...</a>
+                            <a href="https://www.acontecercristiano.net/2023/03/vaquillas-rojas-para-el-tercer-templo.html" target='_blank' rel='noopener noreferrer'>Leer mas...</a>
                         </article>
                     </div>
                     <div className="col-md-4">
@@ -103,7 +100,7 @@ const Inicio = () => {
                                     ¡Bienvenidos, Dios les bendiga!
                                 </p>
                                 <p>
-                                En nuestra página encontraras información de interes acerca de eventos, asi como material importante que puedes consultar y descargar.
+                                    En nuestra página encontraras información de interes acerca de eventos, asi como material importante que puedes consultar y descargar.
                                 </p>
                             </div>
                             <div className="p-4">
