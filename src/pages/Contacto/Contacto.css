@@ -1,0 +1,55 @@
+#ubica{
+    width: 620px;
+    height: 430px;
+}
+#ipar{
+    width: 650px;
+    height: 430px;
+}
+#direccion{
+    font-size: 30px;
+}
+
+@media screen and (max-width: 1200px){
+    #ubica{
+        width: 440px;
+        height: 320px;
+    }
+    #ipar{
+        width: 470px;
+        height: 320px;
+    }
+}
+@media screen and (max-width: 800px){
+    #ubica{
+        width: 330px;
+        height: 240px;
+    }
+    #ipar{
+        width: 330px;
+        height: 240px;
+    }
+}
+
+@media screen and (max-width: 430px){
+    #ubica{
+        width: 350px;
+        height: 240px;
+    }
+    #ipar{
+        margin-top: 25px;
+        width: 350px;
+        height: 270px;
+    }
+}
+@media screen and (max-width: 375px){
+    #ubica{
+        width: 270px;
+        height: 240px;
+    }
+    #ipar{
+        margin-top: 25px;
+        width: 270px;
+        height: 270px;
+    }
+}
