@@ -14,11 +14,11 @@ function TopBar() {
                                 <NavLink className="nav-link" aria-current="page" to='/inicio'>Inicio</NavLink>
                             </li>
                             <li className="nav-item">
-                                <NavLink className="nav-link" to='/contacto'>Contacto</NavLink>
-                            </li>
-                            <li className="nav-item">
                                 <NavLink className="nav-link" to='/nosotros'>Nosotros</NavLink>
                             </li>       
+                            <li className="nav-item">
+                                <NavLink className="nav-link" to='/contacto'>Contacto</NavLink>
+                            </li>
                             <li className="nav-item dropdown">
                                 <NavLink className="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">Sociedades</NavLink>
                                 <ul className="dropdown-menu">

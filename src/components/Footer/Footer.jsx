@@ -16,7 +16,7 @@ function Footer() {
                 <h3>Servicio al cliente</h3>
                 <ul>
                     <li>
-                        <NavLink to='/contacto'>Contactanos</NavLink>
+                        <NavLink to='/contacto'>Ubicacion</NavLink>
                     </li>
                 </ul>
             </div>
