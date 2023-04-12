@@ -7,7 +7,7 @@ const Historia = () => {
            <div className="container mt-4">
                 <div className="row">
                     <div className="col-md-6">
-                        <img id='first' src={reference} alt="" />   
+                        <img id='first' src={reference} alt="logo_iglesia" />   
                     </div>
                     <div className="col-md-6" id='origen'>
                         <h4 id='inicioh'>Origen</h4>
